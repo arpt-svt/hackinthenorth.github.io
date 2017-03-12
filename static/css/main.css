@@ -177,6 +177,7 @@ li a {
     display: inline-block;
     width: 8em;
     border: solid 2px #c22e5e;
+    transition: all 0.4s ease;
 }
 
 .btn1:hover {
@@ -194,6 +195,7 @@ li a {
     display: inline-block;
     width: 8em;
     border: solid 2px #f5a71f;
+    transition: all 0.4s ease;
 }
 
 .btn2:hover {
@@ -205,7 +207,9 @@ li a {
     position: relative;
     display: inline-block;
     width: 30%;
-    border: solid 2px #e13f2a;
+    border: solid 2px #e13f2a;    
+    transition: all 0.4s ease;
+
 }
 
 .btn3:hover {
